@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23D03908-C3AD-4659-BB7B-B6CDA23C1BC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CED99C4-CADB-4617-9C4F-63EE14131252"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetectTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
+            landmarkName = "convertToBlackAndWhite(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CED99C4-CADB-4617-9C4F-63EE14131252 - 4870b9a2e5bf53ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "322"
+                  endingLineNumber = "322">
+               </Location>
+               <Location
+                  uuid = "7CED99C4-CADB-4617-9C4F-63EE14131252 - 4870b9a2e5bf53bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "324"
+                  endingLineNumber = "324">
+               </Location>
+               <Location
+                  uuid = "7CED99C4-CADB-4617-9C4F-63EE14131252 - 3d0257cedbaba978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "322"
+                  endingLineNumber = "322">
+               </Location>
+               <Location
+                  uuid = "7CED99C4-CADB-4617-9C4F-63EE14131252 - 5590e822fe4b5667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.convertToBlackAndWhite(__C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "322"
+                  endingLineNumber = "322">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetectTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "removeBackground(from:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F - 4870b9a2e5bf5264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333">
+               </Location>
+               <Location
+                  uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F - 4870b9a2e5bf5264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333">
+               </Location>
+               <Location
+                  uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F - 3d0257cedbaba8c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "334"
+                  endingLineNumber = "334">
+               </Location>
+               <Location
+                  uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F - 4870b9a2e5bf51e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "337"
+                  endingLineNumber = "337">
+               </Location>
+               <Location
+                  uuid = "38845FD8-D68A-436B-88B8-A6182030DC8F - 3d0257cedbaba8e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DFC7756-9EFB-470B-8F3A-EE0B53ABACB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetectTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
+            landmarkName = "removeBackground(from:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DFC7756-9EFB-470B-8F3A-EE0B53ABACB7 - 4870b9a2e5bf537b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326">
+               </Location>
+               <Location
+                  uuid = "5DFC7756-9EFB-470B-8F3A-EE0B53ABACB7 - 4870b9a2e5bf537b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326">
+               </Location>
+               <Location
+                  uuid = "5DFC7756-9EFB-470B-8F3A-EE0B53ABACB7 - 3d0257cedbaba9be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "328"
+                  endingLineNumber = "328">
+               </Location>
+               <Location
+                  uuid = "5DFC7756-9EFB-470B-8F3A-EE0B53ABACB7 - 3d0257cedbaba9fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetectTest.ViewController.removeBackground(from: __C.UIImage, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DetectTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhieu/Documents/Dev/DetectTest/DetectTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
